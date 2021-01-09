@@ -1,11 +1,11 @@
 <?php 
 /*
     Plugin Name: Min Max Quantites For Woocommerce
-    Plugin URI: https://4waytechnologies.com/
+    Plugin URI: https://www.savitrigupta.com/
     Description: This plugin is use for to manage the min max products quantites from backend and show the exact quantites on single product page.
     Version:2.1.0
     Author: Deepak kumar gupta
-    Author URI: https://4waytechnologies.com/
+    Author URI: https://www.savitrigupta.com/
  */
  
  /*
